@@ -1,7 +1,7 @@
-# :orange: 비타민4기 UFC 승부예측  프로젝트<br>
-kaggle 데이터(https://www.kaggle.com/rajeevw/comments) 를 활용하여 비타민4기 소규모 프로젝트한 것을 정리한 레포지토리<br>
+# UFC 승부예측  프로젝트
 
-> 비타민 홈페이지 주소 : https://cafe.naver.com/bitamin123
+
+
 
 ![슬라이드1](https://user-images.githubusercontent.com/56948006/89768423-90116f00-db36-11ea-8d81-984e06f6360d.JPG)
 ![슬라이드2](https://user-images.githubusercontent.com/56948006/89768428-91429c00-db36-11ea-9833-d06ed4ff373b.JPG)
